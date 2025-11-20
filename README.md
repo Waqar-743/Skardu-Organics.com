@@ -28,7 +28,7 @@ A modern, responsive e-commerce platform for authentic organic products from Gil
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js 18+
+- Node.js 20+ (required for Vite 7)
 - npm or yarn
 
 ### Installation
