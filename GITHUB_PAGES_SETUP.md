@@ -39,7 +39,7 @@ The workflow file `.github/workflows/deploy.yml` will:
 
 2. **Build Process**:
    - Checkout code
-   - Setup Node.js 20
+   - Setup Node.js 18
    - Install dependencies (`npm ci`)
    - Build the project (`npm run build`)
    - Upload build artifacts

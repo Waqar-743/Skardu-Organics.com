@@ -1,7 +1,7 @@
 # Skardu Organic - Deployment Guide
 
 ## Prerequisites
-- Node.js 20+ installed (required for Vite 7)
+- Node.js 18+ installed
 - npm or yarn package manager
 - Modern web browser
 
