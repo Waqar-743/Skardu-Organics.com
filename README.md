@@ -4,13 +4,13 @@
 
 # Skardu Organic - Premium Himalayan Products
 
-![Deploy Status](https://github.com/Waqar-743/Skardu-Organics-site.new/actions/workflows/deploy.yml/badge.svg)
+![Deploy Status](https://github.com/Waqar-743/Skardu-Organics-site/actions/workflows/deploy.yml/badge.svg)
 
 A modern, responsive e-commerce platform for authentic organic products from Gilgit-Baltistan. Built with React, TypeScript, and Vite.
 
 ## 🌐 Live Demo
 
-**Production Site:** https://waqar-743.github.io/Skardu-Organics-site.new/
+**Production Site:** https://waqar-743.github.io/Skardu-Organics-site/
 
 ## ✨ Features
 
@@ -35,8 +35,8 @@ A modern, responsive e-commerce platform for authentic organic products from Gil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Waqar-743/Skardu-Organics-site.new.git
-   cd Skardu-Organics-site.new
+   git clone https://github.com/Waqar-743/Skardu-Organics-site.git
+   cd Skardu-Organics-site
    ```
 
 2. **Install dependencies:**
@@ -86,7 +86,7 @@ For detailed instructions, see [GITHUB_PAGES_SETUP.md](GITHUB_PAGES_SETUP.md)
 
 ### Manual Deployment Options
 
-- **Vercel:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Waqar-743/Skardu-Organics-site.new)
+- **Vercel:** [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Waqar-743/Skardu-Organics-site)
 - **Netlify:** See [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ## 📱 Device Compatibility

@@ -260,7 +260,7 @@ Add to `package.json` scripts:
 If you encounter an issue not listed here:
 
 1. **Check GitHub Actions Logs:**
-   - https://github.com/Waqar-743/Skardu-Organics-site.new/actions
+   - https://github.com/Waqar-743/Skardu-Organics-site/actions
    - Click on failed workflow
    - Review detailed logs
 

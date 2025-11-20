@@ -10,7 +10,7 @@ Your repository is now configured to automatically deploy to GitHub Pages whenev
 
 ### 1. Enable GitHub Pages
 
-1. Go to your repository: https://github.com/Waqar-743/Skardu-Organics-site.new
+1. Go to your repository: https://github.com/Waqar-743/Skardu-Organics-site
 2. Click on **Settings** tab
 3. In the left sidebar, click **Pages**
 4. Under **Source**, select:
@@ -54,7 +54,7 @@ The workflow file `.github/workflows/deploy.yml` will:
 
 Once deployed, your site will be available at:
 
-**🌐 https://waqar-743.github.io/Skardu-Organics-site.new/**
+**🌐 https://waqar-743.github.io/Skardu-Organics-site/**
 
 ---
 
@@ -86,7 +86,7 @@ You can manually trigger a deployment:
 Add this to your README.md to show deployment status:
 
 ```markdown
-![Deploy Status](https://github.com/Waqar-743/Skardu-Organics-site.new/actions/workflows/deploy.yml/badge.svg)
+![Deploy Status](https://github.com/Waqar-743/Skardu-Organics-site/actions/workflows/deploy.yml/badge.svg)
 ```
 
 ---
