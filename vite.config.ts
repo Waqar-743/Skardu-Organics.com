@@ -9,6 +9,7 @@ const __dirname = dirname(__filename);
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
+      base: process.env.NODE_ENV === 'production' ? '/Skardu-Organics-site.new/' : '/',
       server: {
         port: 3000,
         host: '0.0.0.0',
